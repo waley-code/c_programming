@@ -1,10 +1,14 @@
 # C Programing Language
 
-This program prints the Table of Fahrenheit temperatures and their centigrade or celcius equivalents.
+This repository contains programs written in C programming language
+
+The Book used in studying
+
+THE C PROGRAMMING LANGUAGE (by Brian Kernighan and Dennis Ritchie)
 
 
 
-Author: Adeosun Oyewale Oluwapelumi
+Author: <strong>Adeosun Oyewale Oluwapelumi</strong>
 
 ### Variables and Arithmethic
     1. fahrenheit_celcius.c
@@ -40,3 +44,10 @@ Author: Adeosun Oyewale Oluwapelumi
             using the functions below:
                 a. getchar()
                 b. putchar()
+
+
+### Break and Continue
+    6. break_continue.c
+        This program gets input numbers form users and check for below conditions
+            prints number if input is positive
+            Does not print and skips if ninput is odd number
